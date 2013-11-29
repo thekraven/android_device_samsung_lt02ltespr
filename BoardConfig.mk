@@ -31,6 +31,6 @@ TARGET_OTA_ASSERT_DEVICE := lt02ltespr
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := cyanogen_lt02ltespr_defconfig
-
+#TARGET_PREBUILT_KERNEL := device/samsung/lt02ltespr/zImage
 # NFC
 BOARD_HAVE_NFC := true
